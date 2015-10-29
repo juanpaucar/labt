@@ -12,3 +12,7 @@ echo 'cpu_threads ' >> resultados.txt
 ./cpu_threads 200 200 4 >> resultados.txt
 echo 'cpu_local ' >> resultados.txt
 ./cpu_local 200 200 4 >> resultados.txt
+echo 'es_fil' >> resultados.txt
+./es_fil masc_sentences >> resultados.txt
+echo 'es_fil' >> resultados.txt
+./es_threads masc_sentences 4 >> resultados.txt
