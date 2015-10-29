@@ -1,0 +1,10 @@
+cpu_fil 
+TRES: 4016 (0.000144 secs)
+cpu_col 
+TRES: 4016 (0.000140 secs)
+cpu_mutex 
+TRES: 4016 (0.014155 secs)
+cpu_threads 
+TRES: 2476 (0.000212 secs)
+cpu_threads 
+TRES: 4016 (0.000141 secs)
